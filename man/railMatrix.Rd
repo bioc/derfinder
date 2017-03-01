@@ -128,4 +128,3 @@ if(.Platform$OS.type != 'windows') {
 \author{
 Leonardo Collado-Torres
 }
-

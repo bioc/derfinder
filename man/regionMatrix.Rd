@@ -93,4 +93,3 @@ regionMat2 <- regionMatrix(filteredCov, maxRegionGap = 10L,
 \author{
 Leonardo Collado-Torres
 }
-
